@@ -14,9 +14,11 @@ const adria  = {
     React,
     ReactRouter
     Styled-Components,
-    Material-UI
+    Material-UI,
+    TypeScript,
+    MySQL
   ],
-  const tools: [GitHub, Postman],
+  tools: [GitHub, Postman],
   bootcamp: {
     what: "Web FullStack,
     where: "Labenu"
