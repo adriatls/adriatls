@@ -1,27 +1,35 @@
 <h1>Oii! Eu sou a Ádria Tavares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-🚧 Estudando para ser desenvolvedora FullStack Web
+🚧 Estudando desenvolvimento FullStack Web
+
+💻 Trabalhando como Programadora Júnior na <a href="https://www.meta.com.br/" target="_blank">Meta<a>
 
 **Um pouquinho mais sobre mim...**
 
 ```javascript
-const adria  = {
+let adria  = {
   pronouns: "ela" | "dela",
   skills: [
-    HTML,
-    CSS,
-    JavaScript,
-    React,
-    ReactRouter
-    Styled-Components,
-    Material-UI,
-    TypeScript,
-    MySQL
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "ReactRouter",
+    "Styled-Components",
+    "Material-UI",
+    "TypeScript",
+    "MySQL",
+    "C#"
   ],
-  tools: [GitHub, Postman],
+  tools: [
+    "GitHub", 
+    "GitLab", 
+    "Postman"
+  ],
   bootcamp: {
     what: "Web FullStack,
-    where: "Labenu"
+    where: "Labenu",
+    status: "Finished"
   }
 }
 ```
