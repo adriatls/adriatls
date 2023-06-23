@@ -2,7 +2,7 @@
 
 🚧 Estudando desenvolvimento FullStack Web
 
-💻 Trabalhando como Desenvolvedora Júnior na <a href="https://www.meta.com.br/" target="_blank">Meta<a>
+💻 Trabalhando como Desenvolvedora na <a href="https://www.meta.com.br/" target="_blank">Meta<a>
 
 **Um pouquinho mais sobre mim...**
 
@@ -20,7 +20,8 @@ let adria  = {
     "TypeScript",
     "MySQL",
     "C#",
-    "Vue"
+    "Vue",
+    "Svelte"
   ],
   tools: [
     "GitHub", 
