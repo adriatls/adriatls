@@ -36,11 +36,11 @@ let adria  = {
 }
 ```
 </br>
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/adriatls">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriatls&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriatls&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+</div> -->
 
   
 ##  
