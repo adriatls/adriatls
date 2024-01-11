@@ -2,7 +2,7 @@
 
 🚧 Estudando desenvolvimento FullStack Web
 
-💻 Trabalhando como Desenvolvedora na <a href="https://www.meta.com.br/" target="_blank">Meta<a>
+💻 Trabalhando como Desenvolvedora Frontend na <a href="https://www.meta.com.br/" target="_blank">Meta<a>
 
 **Um pouquinho mais sobre mim...**
 
