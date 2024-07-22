@@ -17,21 +17,20 @@ let adria  = {
     "ReactRouter",
     "Styled-Components",
     "Material-UI",
+    "Svelte",
+    "Angular",
+    "PrimeNG"
     "TypeScript",
-    "MySQL",
-    "C#",
-    "Vue",
-    "Svelte"
   ],
   tools: [
     "GitHub", 
     "GitLab", 
-    "Postman"
+    "Postman",
   ],
   bootcamp: {
     what: "Web FullStack,
     where: "Labenu",
-    status: "Finished"
+    status: "Finished",
   }
 }
 ```
