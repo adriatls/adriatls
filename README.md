@@ -2,7 +2,7 @@
 
 🚧 Estudando desenvolvimento FullStack Web
 
-💻 Trabalhando como Desenvolvedora Frontend na <a href="https://www.meta.com.br/" target="_blank">Meta<a>
+💻 Trabalhando como Desenvolvedora Fullstack na <a href="https://cybera.io/" target="_blank">Cybera<a>
 
 **Um pouquinho mais sobre mim...**
 
@@ -21,6 +21,8 @@ let adria  = {
     "Angular",
     "PrimeNG"
     "TypeScript",
+    "C#",
+    ".Net"
   ],
   tools: [
     "GitHub", 
