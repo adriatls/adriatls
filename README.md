@@ -33,7 +33,12 @@ let adria  = {
     what: "Web FullStack,
     where: "Labenu",
     status: "Finished",
-  }
+  },
+  degree: {
+    what: "Information Systems,
+    where: "PUC Minas",
+    status: "In Progress",
+  },
 }
 ```
 </br>
